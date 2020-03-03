@@ -1,0 +1,9 @@
+{
+    "autoload":{
+        "psr-4":{
+            "North\\":"inc/",
+            "North\\App\\":"inc/classes",
+            "North\\App\\Blunt\\":"inc/classes/Blunt"
+        }
+    }
+}
